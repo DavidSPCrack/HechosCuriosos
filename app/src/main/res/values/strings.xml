@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HechosCuriosos</string>
+    <string name="did_you_know">¿Sabías que...?</string>
+    <string name="action_settings">Settings</string>
+    <string name="know_help">Pulse para ver otro hecho curioso</string>
+    <string name="know1">Las hormigas se estiran cuando se despierta por la mañana</string>
+    <string name="know2">Las avestruces pueden correr más rápido que los caballos</string>
+    <string name="know3">Las medallas de oro de los juegos olímpicos están hechas de plata</string>
+    <string name="know4">Naciste con 300 huesos, pero en la edad adulta tendrás solo 206</string>
+    <string name="know5">Toma unos 8 minutos en llegar la luz del sol a la tierra</string>
+    <string name="know6">Algunas plantas de bambu pueden crecer hasta un metro al día</string>
+    <string name="know7">El estado de Florida es más grande que Inglaterra</string>
+    <string name="know8">Algunos pingüinos pueden saltar de 2 a 3 metros por encima del aguar</string>
+    <string name="know9">De media se tarda 66 días en tomar un nuevo hábito</string>
+    <string name="know10">Los mamuts seguian caminando sobre la tierra en la época en que se construyeron las grandes pirámides</string>
+    <string-array name="know_array">
+        <item>@string/know1</item>
+        <item>@string/know2</item>
+        <item>@string/know3</item>
+        <item>@string/know4</item>
+        <item>@string/know5</item>
+        <item>@string/know6</item>
+        <item>@string/know7</item>
+        <item>@string/know8</item>
+        <item>@string/know9</item>
+        <item>@string/know10</item>
+    </string-array>
+    <string name="otro_hecho">Otro hecho curioso</string>
+
+</resources>
