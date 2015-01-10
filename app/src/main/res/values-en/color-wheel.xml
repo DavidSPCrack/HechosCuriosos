@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="color1">#39add1</color>
+    <color name="color2">#3079ab</color>
+    <color name="color3">#c25975</color>
+    <color name="color4">#e15258</color>
+    <color name="color5">#f9845b</color>
+    <color name="color6">#838cc7</color>
+    <color name="color7">#7d669e</color>
+    <color name="color8">#53bbb4</color>
+    <color name="color9">#51b46d</color>
+    <color name="color10">#e0ab18</color>
+    <color name="color11">#637a91</color>
+    <color name="color12">#f092b0</color>
+    <color name="color13">#b7c0c7</color>
+
+    <array name="todosColores">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+        <item>@color/color7</item>
+        <item>@color/color8</item>
+        <item>@color/color9</item>
+        <item>@color/color10</item>
+        <item>@color/color11</item>
+        <item>@color/color12</item>
+        <item>@color/color13</item>
+    </array>
+</resources>
